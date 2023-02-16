@@ -1,0 +1,42 @@
+Nume: Girlea Anana Catalina
+Grupa: 323CAa
+
+Fisierele din arhiva:
+                 
+algo1.cpp - contine algoritmul in c++ a lui Fermat pentru numerele prime
+algo1.h - fisierul header pentru algo1.cpp
+algo1_test.cpp - contine functia main care apeleaza algoritmul lui Fermat 
+                 gasit in algo1.cpp 
+
+algo2.cpp - contine algoritmul in c++ a lui Miller-Rabin pentru numerele prime
+algo2.h -isierul header pentru algo2.cpp
+algo1_test.cpp - contine functia main care apeleaza algoritmul lui Miller-Rabin 
+                 gasit in algo2.cpp
+
+checker.py - contine checkerul pentru cei doi algoritmi
+
+fisier in - contine 26 de fisiere de tip in
+fisier out - contine 26 de fisiere de tip out
+
+Alte Detalii:
+Testele 1-10 au un numar pana la 10 elemente in sir, aceste elemente fiind pana 
+      in 1000000.
+Testele 11-15 au un numar 10-25 elemente in sir, aceste elemente fiind pana 
+      in 1000000.
+Testele 15-20 au un numar 25-100 elemente in sir, aceste elemente fiind pana 
+      in 1000000.
+Testele 20-26 au un numar 200-2000 elemente in sir, aceste elemente fiind pana 
+      in 1000000.
+
+Surse:
+
+La primul algoritm m-am folosit de sursele:
+https://www.geeksforgeeks.org/primality-test-set-2-fermet-method/?ref=lbp
+https://www.tutorialspoint.com/cplusplus-program-to-perform-fermat-primality-test
+
+La al doilea algoritm m-am folosit de sursele:
+https://www.geeksforgeeks.org/primality-test-set-3-miller-rabin/?ref=lbp
+https://titanwolf.org/Network/Articles/Article?AID=a15ad1bd-161d-42d6-97ef-f92a28a450a9
+
+Lista de numere prime pana la 1000000 de care m-am folosit pentru crearea testelor:
+http://compoasso.free.fr/primelistweb/page/prime/liste_online_en.php
